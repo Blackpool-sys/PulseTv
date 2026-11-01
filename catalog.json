@@ -4,7 +4,7 @@
       "name": "Primeware",
       "domain": "http://www.primewire.ag",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/اسم_حسابك/pulse-addons/main/providers/primeware.js",
+      "url": "https://raw.githubusercontent.com/Blackpool-sys/pulse-addons/main/providers/primeware.js",
       "type": ["movie", "tv"]
     }
   },
@@ -13,7 +13,7 @@
       "name": "Vidoza",
       "domain": "vidoza.net",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/اسم_حسابك/pulse-addons/main/hosts/vidoza.js"
+      "url": "https://raw.githubusercontent.com/Blackpool-sys/pulse-addons/main/hosts/vidoza.js"
     }
   }
 }
