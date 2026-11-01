@@ -1,0 +1,19 @@
+{
+  "providers": {
+    "primeware": {
+      "name": "Primeware",
+      "domain": "http://www.primewire.ag",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/اسم_حسابك/pulse-addons/main/providers/primeware.js",
+      "type": ["movie", "tv"]
+    }
+  },
+  "hosts": {
+    "vidoza": {
+      "name": "Vidoza",
+      "domain": "vidoza.net",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/اسم_حسابك/pulse-addons/main/hosts/vidoza.js"
+    }
+  }
+}
